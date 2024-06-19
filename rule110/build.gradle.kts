@@ -38,5 +38,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("rule110.AppKt")
+    mainClass.set("rule110.MainKt")
 }
